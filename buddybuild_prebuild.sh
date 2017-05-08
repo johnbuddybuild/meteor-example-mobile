@@ -1,2 +1,2 @@
 meteor add-platform $PLATFORM
-meteor build ios --server $SERVER
+meteor build $PLATFORM --server $SERVER
